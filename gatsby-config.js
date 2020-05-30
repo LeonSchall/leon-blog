@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Leon's Blog`,
+    title: `Collect the World!`,
     author: {
       name: `Leon Schall`,
-      summary: `who lives and works in Vossenack building useful things.`
+      summary: `who lives and works in Vossenack collecting things.`
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`
+      twitter: `kylemathews`,
+      instagram: 'leon_schall',
     }
   },
   plugins: [
