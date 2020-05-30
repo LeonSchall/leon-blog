@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Test Name`,
+    title: `Leon's Blog!`,
     author: {
       name: `Leon Schall`,
-      summary: `who doesn't live and work in San Francisco building useful things.`
+      summary: `who lives and works in Vossenack building useful things.`
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
